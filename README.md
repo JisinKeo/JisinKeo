@@ -27,9 +27,8 @@ Here are some ideas to get you started:
    <br/>
     <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-
 </p>
-## ⚙️ GitHub Analytics
+⚙️ GitHub Analytics
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisinKeo&show_icons=true&theme=radical)
