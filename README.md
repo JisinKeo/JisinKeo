@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 </p>
 ## ⚙️ GitHub Analytics
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tntjd9514@naver.com&show_icons=true&theme=radical)
-</a>
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisinKeo&show_icons=true&theme=radical)
+
 
 
 ## 🐤 BOJ rank
