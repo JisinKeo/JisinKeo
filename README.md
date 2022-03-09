@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-## 🐤 BOJ rank
+## 😄 BOJ rank
 <p align = "center">
   <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blues9803"/>
 </p>
