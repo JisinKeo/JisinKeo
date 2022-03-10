@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
     <img height="30em" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### 🌱 GitHub stats
+## 🌱 GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisinKeo&show_icons=true&theme=radical)
 
