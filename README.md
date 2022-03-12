@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img height="30em" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <br/>
-    <img height="30em" src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+    <img height="30em" src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/> 
     
 
 </p>
@@ -42,6 +42,4 @@ Here are some ideas to get you started:
  <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blues9803"/>
 
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JisinKeo&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+
