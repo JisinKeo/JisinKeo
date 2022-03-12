@@ -25,7 +25,8 @@ Here are some ideas to get you started:
     <img height="30em" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-
+  <br/>
+    <img height="30em" src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=javascript&logoColor=white"/>
     
 
 </p>
