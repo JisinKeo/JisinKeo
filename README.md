@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img height="30em" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
  
   <br/>
+    <img height="30em" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> 
     <img height="30em" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/> 
     
 <!--
