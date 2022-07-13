@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 Profile
+
+아주대학교 소프트웨어학과(2017.03~)
+
+네이버 웹 부스트캠프 7기 챌린지 (진행 중)
+
+
+
 ## 🛠 Tech Stack
 <p align="center">
     <img height="30em" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
