@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 아주대학교 소프트웨어학과(2017.03~)
 
 네이버 웹 부스트캠프 7기 챌린지 (진행 중)
+
+GDSC
 -->
 
 
