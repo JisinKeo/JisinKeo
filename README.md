@@ -1,9 +1,10 @@
 
-안녕하세요. 김민석입니다.👋
 
 Ajou Software 17
 
 <!--
+
+안녕하세요. 김민석입니다.👋
 ''' Hi there 👋
 **JisinKeo/JisinKeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
