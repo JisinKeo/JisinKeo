@@ -1,4 +1,3 @@
-* [] 
 
 Ajou Software 17
 
