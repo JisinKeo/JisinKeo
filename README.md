@@ -54,7 +54,7 @@ GDSC
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisinKeo&layout=compact"><br>
 
 
 
