@@ -52,12 +52,22 @@ GDSC
 
 
 </p>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br>
+
+
+
+
+
+
+<!--
 ## 🌱 GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisinKeo&show_icons=true&theme=radical)
 
 
-<!--
+
 ## 😄 BOJ rank
     
 
