@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-## 🌱 Profile
+
 
 아주대학교 소프트웨어학과(2017.03~)
 
@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 GDSC
 -->
+
+## 🌱 Profile
+
+Ajou Software 17
+
+김민석
 
 
 ## 🛠 Tech Stack
