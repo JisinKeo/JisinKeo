@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 아주대학교 소프트웨어학과(2017.03~)
 
-네이버 웹 부스트캠프 7기 챌린지 (진행 중)
+네이버 웹 부스트캠프 7기 챌린지 (진행)
 
 GDSC
--->
+
 
 ## 🌱 Profile
 
 <p align="center">
     <b>Ajou Software 17 김민석</b>
 </p>
-
+-->
 
 ## 🛠 Tech Stack
 <p align="center">
