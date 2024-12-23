@@ -28,9 +28,7 @@ GDSC
 
 ## 🌱 Profile
 
-<p align="center">
-    <b>Ajou Software 17 김민석</b>
-</p>
+
 -->
 
 ## 🛠 Tech Stack
